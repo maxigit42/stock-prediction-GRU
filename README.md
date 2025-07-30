@@ -26,6 +26,6 @@ This project uses deep learning (GRU) and technical analysis to predict Amazon (
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/tu_usuario/stock-price-predictor
+git clone https://github.com/maxigit42/stock-price-predictor
 cd stock-price-predictor
 pip install -r requirements.txt
